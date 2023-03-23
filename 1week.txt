@@ -1,2 +1,17 @@
 1. 앞으로 git 프로젝트로 만들고 싶은것
+사전 OT 때 미니프로젝트로 만든 맛집공유 디벨롭
 2. 1주차 주요 개념 키워드
+git 초기화 (git init, initialize)
+commit 캡쳐(저장)
+add(staging)
+history
+원격 repo - 클라우드
+로컬 repo - 내컴퓨터
+commit을 수동으로 반영하기
+pull(가져오기)
+push(보내기)
+clone 원격 repo 복제해서 로컬 repo로 복사
+꿀 패턴
+pull -> commit -> push
+branch tracking/tracking 로컬 repo가 원격 repo를 연결하는 것
+설정 -> 저장소 설정 -> 원격 -> github 주소 (origin)
